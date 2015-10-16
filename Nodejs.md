@@ -17,6 +17,10 @@
 - [redis](https://github.com/NodeRedis/node_redis)
 - [mongoose](https://github.com/Automattic/mongoose)
 
+###awesome
+
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
 ###addon
 
 - [Node.js C++ addon examples](https://github.com/nodejs/node-addon-examples)
