@@ -11,7 +11,12 @@
 - [co](https://github.com/tj/co)
 - [bluebird](https://github.com/petkaantonov/bluebird)
 - [mocha](https://github.com/mochajs/mocha)
+- [debug](https://github.com/visionmedia/debug)
 - [promise](https://github.com/then/promise)
 - [mysql](https://github.com/felixge/node-mysql)
 - [redis](https://github.com/NodeRedis/node_redis)
 - [mongoose](https://github.com/Automattic/mongoose)
+
+###addon
+
+- [Node.js C++ addon examples](https://github.com/nodejs/node-addon-examples)
