@@ -13,9 +13,12 @@
 - [mocha](https://github.com/mochajs/mocha)
 - [debug](https://github.com/visionmedia/debug)
 - [promise](https://github.com/then/promise)
+- [https://github.com/babel/babel](https://github.com/babel/babel) Babel is a compiler for writing next generation JavaScript.
+
 - [mysql](https://github.com/felixge/node-mysql)
 - [redis](https://github.com/NodeRedis/node_redis)
 - [mongoose](https://github.com/Automattic/mongoose)
+
 
 ###awesome
 
