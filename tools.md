@@ -13,6 +13,7 @@ https://github.com/qtproject/qt-creator
 https://github.com/atom/atom
 https://github.com/Microsoft/vscode
 
+https://github.com/sosedoff/pgweb
 https://github.com/wireshark/wireshark
 https://github.com/qbittorrent/qBittorrent
 https://github.com/uglide/RedisDesktopManager
