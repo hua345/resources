@@ -10,6 +10,7 @@ spring stars:>=1000 language:java sort:stars
 - [elasticsearch](https://github.com/elastic/elasticsearch) A Distributed RESTful Search Engine
 - [guava](https://github.com/google/guava) Guava: Google Core Libraries for Java
 #### 学习资料
+- [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
 - [MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 #### 代码规范
