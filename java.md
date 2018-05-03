@@ -6,6 +6,7 @@ spring stars:>=1000 language:java sort:stars
 - [spring-framework](https://github.com/spring-projects/spring-framework)
 - [druid](https://github.com/alibaba/druid) 为监控而生的数据库连接池！
 - [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java 
+- [elasticsearch](https://github.com/elastic/elasticsearch) A Distributed RESTful Search Engine
 #### 学习资料
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 #### 代码规范
