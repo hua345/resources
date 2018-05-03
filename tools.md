@@ -1,20 +1,21 @@
-https://eclipse.org/downloads/
-https://dev.mysql.com/downloads/workbench/
-https://www.virtualbox.org/wiki/Downloads
+### 开发工具
+ - [vscode](https://github.com/Microsoft/vscode)
 
-https://code.google.com/p/gerrit/
-https://jenkins-ci.org/
-https://about.gitlab.com/downloads/
-https://github.com/gitlabhq/gitlabhq
+ - [eclipse](https://eclipse.org/downloads/)
 
-https://github.com/eranif/codelite
-https://github.com/visualfc/liteide
-https://github.com/qtproject/qt-creator
-https://github.com/atom/atom
-https://github.com/Microsoft/vscode
-
-https://github.com/sosedoff/pgweb
-https://github.com/wireshark/wireshark
-https://github.com/qbittorrent/qBittorrent
-https://github.com/uglide/RedisDesktopManager
-https://github.com/paralect/robomongo
+ - [atom](https://github.com/atom/atom)
+ 
+ - [](https://github.com/visualfc/liteide)
+ 
+ ### 源代码管理
+ - [jenkins](https://jenkins-ci.org/)
+ 
+ - [gitlab](https://github.com/gitlabhq/gitlabhq)
+ 
+ - [gerrit](https://code.google.com/p/gerrit/)
+ ### 数据库客户端
+ - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
+  
+ - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager)
+ 
+ - [robomongo](https://github.com/paralect/robomongo)
