@@ -17,4 +17,5 @@ spring stars:>=1000 language:java sort:stars
 
 ### 文档
 - [跟我学Shiro](https://github.com/zhangkaitao/shiro-example)
+- [Apache Shiro 1.2.x 参考手册](https://github.com/waylau/apache-shiro-1.2.x-reference/blob/master/README.md)
 
