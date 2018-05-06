@@ -9,6 +9,8 @@ spring stars:>=1000 language:java sort:stars
 - [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java 
 - [elasticsearch](https://github.com/elastic/elasticsearch) A Distributed RESTful Search Engine
 - [dubbo](https://github.com/apache/incubator-dubbo) Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+- [RxJava](https://github.com/ReactiveX/RxJava) 
+RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [guava](https://github.com/google/guava) Guava: Google Core Libraries for Java
 #### 学习资料
 - [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
