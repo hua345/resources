@@ -1,9 +1,8 @@
 - [express](https://github.com/strongloop/express)
-- [koa](https://github.com/koajs/koa)
-- [socket.io](https://github.com/socketio/socket.io)
+- [socket.io](https://github.com/socketio/socket.io) Realtime application framework (Node.JS server) -
 
 ### Utility library
-
+- [koa](https://github.com/koajs/koa)
 - [underscore](https://github.com/jashkenas/underscore)
 - [lodash](https://github.com/lodash/lodash)
 - [async](https://github.com/caolan/async)
@@ -19,10 +18,6 @@
 - [redis](https://github.com/NodeRedis/node_redis)
 - [mongoose](https://github.com/Automattic/mongoose)
 
-
-###awesome
-
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 ###addon
 
