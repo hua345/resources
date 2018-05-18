@@ -15,6 +15,7 @@ spring stars:>=1000 language:java sort:stars
 RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [guava](https://github.com/google/guava) Guava: Google Core Libraries for Java
 - [commons-lang](https://github.com/apache/commons-lang) Mirror of Apache Commons Lang
+- [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
 #### 学习资料
 - [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
 - [MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
