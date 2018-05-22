@@ -7,3 +7,5 @@
 ### github
 - [redis](https://github.com/antirez/redis) Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
 - [Redis on Windows](https://github.com/MicrosoftArchive/redis)
+
+- [redis-windows](https://github.com/ServiceStack/redis-windows) Vagrant redis configuration and the binary releases of MS Open Tech redis port of windows
