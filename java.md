@@ -19,8 +19,10 @@ RxJava – Reactive Extensions for the JVM – a library for composing asynchron
 #### 学习资料
 - [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
 - [MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
-- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
+- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+- [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 技术栈示例代码，快速简单上手教程
 #### 代码规范
+
 - [Alibaba Java Coding Guidelines](https://github.com/alibaba/p3c) Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 ### 文档
