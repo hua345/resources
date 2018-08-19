@@ -1,10 +1,10 @@
 ```
 spring stars:>=1000 language:java sort:stars
 ```
-- [https://developer.github.com](https://developer.github.com)
+
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java
-- [spring-boot](https://github.com/spring-projects/spring-boot)
-- [spring-framework](https://github.com/spring-projects/spring-framework)
+- [spring-boot](https://github.com/spring-projects/spring-boot) Spring Boot 
+- [spring-framework](https://github.com/spring-projects/spring-framework) Spring Framework
 - [mybatis](https://github.com/mybatis/mybatis-3) MyBatis SQL mapper framework for Java
 - [druid](https://github.com/alibaba/druid) 为监控而生的数据库连接池！
 - [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java 
@@ -16,7 +16,9 @@ RxJava – Reactive Extensions for the JVM – a library for composing asynchron
 - [guava](https://github.com/google/guava) Guava: Google Core Libraries for Java
 - [commons-lang](https://github.com/apache/commons-lang) Mirror of Apache Commons Lang
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
+
 #### 学习资料
+- [https://developer.github.com](https://developer.github.com)
 - [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
 - [MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
