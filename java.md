@@ -18,6 +18,7 @@ RxJava – Reactive Extensions for the JVM – a library for composing asynchron
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
 
 #### 学习资料
+- [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
 - [https://developer.github.com](https://developer.github.com)
 - [像计算机科学家一样思考（Java版）](http://www.ituring.com.cn/book/1978)
 - [MyBatis中文文档](http://www.mybatis.org/mybatis-3/zh/index.html)
