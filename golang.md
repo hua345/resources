@@ -4,4 +4,5 @@
 - [etcd](https://github.com/coreos/etcd) Distributed reliable key-value store for the most critical data of a distributed system
 - [consul](https://github.com/hashicorp/consul) Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. 
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). 
+- [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform 
 
