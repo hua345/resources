@@ -12,6 +12,7 @@ spring stars:>=1000 language:java sort:stars
 - [dubbo](https://github.com/apache/incubator-dubbo) Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 - [zookeeper](https://github.com/apache/zookeeper) Mirror of Apache Hadoop ZooKeeper
 - [kafka](https://github.com/apache/kafka) Mirror of Apache Kafka
+- [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
 - [hibernate-orm](https://github.com/hibernate/hibernate-orm) Hibernate ORM is a library providing Object/Relational Mapping (ORM) support to applications, libraries and frameworks.
 - [RxJava](https://github.com/ReactiveX/RxJava) 
 RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
