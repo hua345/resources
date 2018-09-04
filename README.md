@@ -8,6 +8,7 @@
 - [angular](https://github.com/angular/angular)
 - [elasticsearch](https://www.elastic.co/products/elasticsearch)
 - [etcd](https://github.com/coreos/etcd)
+- [consul](https://github.com/hashicorp/consul)
 - [redis](https://github.com/antirez/redis)
 
 
