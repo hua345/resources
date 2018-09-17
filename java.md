@@ -5,6 +5,7 @@ spring stars:>=1000 language:java sort:stars
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java
 - [spring-boot](https://github.com/spring-projects/spring-boot) Spring Boot 
 - [spring-framework](https://github.com/spring-projects/spring-framework) Spring Framework
+- [grpc-java](https://github.com/grpc/grpc-java) The Java gRPC implementation. HTTP/2 based RPC - https://grpc.io
 - [mybatis](https://github.com/mybatis/mybatis-3) MyBatis SQL mapper framework for Java
 - [druid](https://github.com/alibaba/druid) 为监控而生的数据库连接池！
 - [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java 
