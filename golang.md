@@ -14,4 +14,5 @@
 
 ### other
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics 
+- [git-lfs](https://github.com/git-lfs/git-lfs) Git extension for versioning large files
 - [cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions
