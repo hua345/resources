@@ -13,4 +13,5 @@
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
 ### other
+- [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics 
 - [cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions
