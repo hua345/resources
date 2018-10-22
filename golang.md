@@ -7,7 +7,7 @@
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). 
 - [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform 
 - [beats](https://github.com/elastic/beats) :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
-- [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner)
+- [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) This is the repository of the official GitLab Runner written in Go.It runs tests and sends the results to GitLab.
 ### Book
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
 - [Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
