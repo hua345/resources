@@ -6,6 +6,7 @@
 - [consul](https://github.com/hashicorp/consul) Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. 
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). 
 - [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform 
+- [mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [syncthing](https://github.com/syncthing/syncthing) Open Source Continuous File Synchronization
 - [beats](https://github.com/elastic/beats) :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) This is the repository of the official GitLab Runner written in Go.It runs tests and sends the results to GitLab.
