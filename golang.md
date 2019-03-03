@@ -15,6 +15,8 @@
 - [Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
 - [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 
+### MyProject
+- [Go语言加解密](https://github.com/hua345/golangEncrypt)
 ### other
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics 
 - [git-lfs](https://github.com/git-lfs/git-lfs) Git extension for versioning large files
