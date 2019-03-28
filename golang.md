@@ -1,3 +1,6 @@
+```
+stars:>=1000 language:golang sort:stars
+```
 - [golang](https://github.com/golang/go) The Go programming language
 - [moby](https://github.com/moby/moby) Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management
