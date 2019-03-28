@@ -1,5 +1,5 @@
 ```
-spring stars:>=1000 language:java sort:stars
+stars:>=1000 language:java sort:stars
 ```
 
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java
