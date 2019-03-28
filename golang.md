@@ -10,6 +10,7 @@ stars:>=1000 language:golang sort:stars
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). 
 - [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform 
 - [mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [gogs](https://github.com/gogs/gogs) Gogs is a painless self-hosted Git service. 
 - [syncthing](https://github.com/syncthing/syncthing) Open Source Continuous File Synchronization
 - [beats](https://github.com/elastic/beats) :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) This is the repository of the official GitLab Runner written in Go.It runs tests and sends the results to GitLab.
