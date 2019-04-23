@@ -8,6 +8,7 @@ stars:>=1000 language:golang sort:stars
 - [etcd](https://github.com/etcd-io/etcd) Distributed reliable key-value store for the most critical data of a distributed system
 - [consul](https://github.com/hashicorp/consul) Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. 
 - [gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). 
+- [kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 - [gorm](https://github.com/jinzhu/gorm) The fantastic ORM library for Golang, aims to be developer friendly
 - [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform 
 - [mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like.
