@@ -1,11 +1,6 @@
 ### 开发工具
  - [vscode](https://github.com/Microsoft/vscode)
-
- - [eclipse](https://eclipse.org/downloads/)
-
- - [atom](https://github.com/atom/atom)
- 
- - [](https://github.com/visualfc/liteide)
+ - [idea](https://www.jetbrains.com/)
  
  ### 源代码管理
  - [jenkins](https://jenkins-ci.org/)
