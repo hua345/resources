@@ -10,5 +10,6 @@
 - [《Nginx开发从入门到精通》](http://tengine.taobao.org/book/index.html)
 - [《MySQL索引背后的数据结构及算法原理》](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [算法可视化](https://www.cs.usfca.edu/~galles/visualization/)
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) Interactive Online Platform that Visualizes Algorithms from Code
 
 
