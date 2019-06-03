@@ -22,6 +22,7 @@ RxJava – Reactive Extensions for the JVM – a library for composing asynchron
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) Mybatis通用分页插件
 
 #### 学习资料
+- [dubbo官方文档](http://dubbo.apache.org/zh-cn/)
 - [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples) Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等
 - [SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) Spring Cloud教程
 - [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限
