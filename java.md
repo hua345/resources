@@ -11,6 +11,7 @@ stars:>=1000 language:java sort:stars
 - [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java 
 - [elasticsearch](https://github.com/elastic/elasticsearch) A Distributed RESTful Search Engine
 - [dubbo](https://github.com/apache/incubator-dubbo) Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+- [zipkin](https://github.com/apache/incubator-zipkin) Zipkin is a distributed tracing system
 - [zookeeper](https://github.com/apache/zookeeper) Mirror of Apache Hadoop ZooKeeper
 - [kafka](https://github.com/apache/kafka) Mirror of Apache Kafka
 - [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
