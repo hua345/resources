@@ -1,3 +1,6 @@
+```
+stars:>=1000 language:java sort:stars
+```
 ### 学习资料整理
 - [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)  技术面试需要掌握的基础知识整理
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
