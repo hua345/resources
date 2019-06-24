@@ -15,6 +15,7 @@ stars:>=1000 language:golang sort:stars
 - [gorm](https://github.com/jinzhu/gorm) The fantastic ORM library for Golang, aims to be developer friendly
 - [jaeger](https://github.com/jaegertracing/jaeger) CNCF Jaeger, a Distributed Tracing System
 - [mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [istio](https://github.com/istio/istio) Connect, secure, control, and observe services. 
 - [gogs](https://github.com/gogs/gogs) Gogs is a painless self-hosted Git service. 
 - [syncthing](https://github.com/syncthing/syncthing) Open Source Continuous File Synchronization
 - [beats](https://github.com/elastic/beats) :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
