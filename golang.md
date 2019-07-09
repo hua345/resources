@@ -21,6 +21,8 @@ stars:>=1000 language:golang sort:stars
 - [beats](https://github.com/elastic/beats) :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) This is the repository of the official GitLab Runner written in Go.It runs tests and sends the results to GitLab.
 ### Book
+
+- [煎鱼的迷之博客](https://github.com/EDDYCJY/blog)
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
 - [Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
