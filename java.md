@@ -9,11 +9,12 @@ stars:>=1000 language:java sort:stars
 - [mybatis](https://github.com/mybatis/mybatis-3) MyBatis SQL mapper framework for Java
 - [druid](https://github.com/alibaba/druid) 为监控而生的数据库连接池！
 - [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java 
+- [kafka](https://github.com/apache/kafka) Mirror of Apache Kafka
 - [elasticsearch](https://github.com/elastic/elasticsearch) A Distributed RESTful Search Engine
+- [flink](https://github.com/apache/flink) Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
 - [dubbo](https://github.com/apache/incubator-dubbo) Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 - [zipkin](https://github.com/apache/incubator-zipkin) Zipkin is a distributed tracing system
 - [zookeeper](https://github.com/apache/zookeeper) Mirror of Apache Hadoop ZooKeeper
-- [kafka](https://github.com/apache/kafka) Mirror of Apache Kafka
 - [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
 - [hibernate-orm](https://github.com/hibernate/hibernate-orm) Hibernate ORM is a library providing Object/Relational Mapping (ORM) support to applications, libraries and frameworks.
 - [RxJava](https://github.com/ReactiveX/RxJava) 
