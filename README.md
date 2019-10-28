@@ -5,6 +5,7 @@ stars:>=1000 language:java sort:stars
 - [the-way-to-go](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md) Go入门指南
 - [Go语言圣经](https://books.studygolang.com/gopl-zh/) Go语言圣经
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book/blob/master/SUMMARY.md) Go语言高级编程 (Advanced Go Programming)
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place
 - [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)  技术面试需要掌握的基础知识整理
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [advanced-java](https://github.com/doocs/advanced-java) 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
