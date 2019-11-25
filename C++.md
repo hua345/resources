@@ -2,39 +2,16 @@
 
 ### Good
 
-- [linux](https://github.com/torvalds/linux)
-- [clang](https://github.com/llvm-mirror/clang)
-- [gcc](https://github.com/gcc-mirror/gcc)
-- [llvm](https://github.com/llvm-mirror/llvm)
-- [opencv](https://github.com/Itseez/opencv)
-- [httpd](https://github.com/apache/httpd)
-- [libevent](https://github.com/libevent/libevent)
-- [disque](https://github.com/antirez/disque)
-- [redis](https://github.com/antirez/redis)
-- [nginx](https://github.com/nginx/nginx-releases)
-- [curl](https://github.com/bagder/curl)
-- [git](https://github.com/git/git)
-- [tengine](https://github.com/alibaba/tengine)
-- [nodejs](https://github.com/nodejs/node)
-- [hhvm](https://github.com/facebook/hhvm)
-- [leveldb](https://github.com/google/leveldb)
-- [fastsocket](https://github.com/fastos/fastsocket)
-- [MariaDB/server](https://github.com/MariaDB/server)- MariaDB server is a community developed fork of MySQL server.
+- [linux](https://github.com/torvalds/linux) Linux kernel source tree
+- [gcc](https://github.com/gcc-mirror/gcc) Mirror of gcc
+- [opencv](https://github.com/Itseez/opencv) Open Source Computer Vision Library
+- [nodejs](https://github.com/nodejs/node) Node.js JavaScript runtime
+- [git](https://github.com/git/git) Git Source Code Mirror 
+- [openssl](https://github.com/openssl/openssl) TLS/SSL and crypto library
+- [redis](https://github.com/antirez/redis) Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. 
+- [nginx](https://github.com/nginx/nginx) An official read-only mirror
+- [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O
+- [libevent](https://github.com/libevent/libevent) Event notification library
+- [protobuf](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format 
 
-- [folly](https://github.com/facebook/folly)
-- [googletest](https://github.com/google/googletest)
-- [rapidjson](https://github.com/miloyip/rapidjson)
-- [libuv](https://github.com/libuv/libuv)
-- [glog](https://github.com/google/glog)
-- [flatbuffers](https://github.com/google/flatbuffers)
-- [protobuf](https://github.com/google/protobuf)
-- [benchmark](https://github.com/google/benchmark)
-- [openssl](https://github.com/openssl/openssl)
-- [hiredis](https://github.com/redis/hiredis)
-- [测试框架Catch](https://github.com/philsquared/Catch)
-- [muduo](https://github.com/chenshuo/muduo)
-- [tinyhttpd的详细注释版](https://github.com/cbsheng/tinyhttpd)
 
-### Learn
-
-- [《An Introduction to libuv》中文翻译](https://github.com/forhappy/uvbook)
