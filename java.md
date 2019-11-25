@@ -2,6 +2,8 @@
 stars:>=1000 language:java sort:stars
 ```
 
+- [https://github.com/openjdk/jdk](https://github.com/openjdk/jdk) Read-only mirror
+- [https://github.com/TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) All Algorithms implemented in Java
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java
 - [spring-boot](https://github.com/spring-projects/spring-boot) Spring Boot 
 - [spring-framework](https://github.com/spring-projects/spring-framework) Spring Framework
@@ -14,9 +16,11 @@ stars:>=1000 language:java sort:stars
 - [flink](https://github.com/apache/flink) Apache Flink is an open source stream processing framework with powerful stream- and batch-processing capabilities.
 - [dubbo](https://github.com/apache/incubator-dubbo) Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 - [zipkin](https://github.com/apache/incubator-zipkin) Zipkin is a distributed tracing system
+- [https://github.com/apache/skywalking](https://github.com/apache/skywalking) APM, Application Performance Monitoring System
 - [zookeeper](https://github.com/apache/zookeeper) Mirror of Apache Hadoop ZooKeeper
 - [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
-- [hibernate-orm](https://github.com/hibernate/hibernate-orm) Hibernate ORM is a library providing Object/Relational Mapping (ORM) support to applications, libraries and frameworks.
+- [https://github.com/xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [https://github.com/alibaba/Sentinel](https://github.com/alibaba/Sentinel) A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)
 - [RxJava](https://github.com/ReactiveX/RxJava) 
 RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [guava](https://github.com/google/guava) Guava: Google Core Libraries for Java
