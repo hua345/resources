@@ -1,6 +1,4 @@
-- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-
-### Good
+# Good
 
 - [linux](https://github.com/torvalds/linux) Linux kernel source tree
 - [gcc](https://github.com/gcc-mirror/gcc) Mirror of gcc
