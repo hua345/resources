@@ -27,7 +27,8 @@ stars:>=1000 language:golang sort:stars
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
 - [Go语言圣经中文版](https://github.com/golang-china/gopl-zh)
-- - [the-way-to-go](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md) 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [the-way-to-go](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md) 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+- [Go 语言高性能编程](https://github.com/geektutu/high-performance-go)
 
 ### MyProject
 - [Go语言加解密](https://github.com/hua345/golangEncrypt)
