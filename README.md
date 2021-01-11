@@ -6,6 +6,7 @@ stars:>=1000 language:java sort:stars
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) Interactive Online Platform that Visualizes Algorithms from Code
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- [JavaFamily](https://github.com/AobingJava/JavaFamily) 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [advanced-java](https://github.com/doocs/advanced-java) 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
 - [the-way-to-go](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md) Go入门指南
 - [Go语言圣经](https://books.studygolang.com/gopl-zh/) Go语言圣经
